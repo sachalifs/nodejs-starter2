@@ -1,0 +1,16 @@
+{
+  "name": "mydb-client",
+  "version": "3.4.8",
+  "description": "mydb client component",
+  "keywords": ["realtime", "db"],
+  "scripts": ["index.js", "document.js"],
+  "dependencies": {
+    "slifszyc/mongo-query": "0.5.3",
+    "slifszyc/dot": "0.1.2",
+    "component/emitter": "1.1.3",
+    "component/type": "1.0.0",
+    "component/clone": "0.2.2",
+    "visionmedia/superagent": "0.21.0",
+    "visionmedia/debug": "2.1.0"
+  }
+}

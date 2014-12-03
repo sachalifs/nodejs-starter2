@@ -1,0 +1,11 @@
+{
+  "name": "db",
+  "dependencies": {
+    "visionmedia/debug": "2.1.0"
+  },
+  "locals": [
+    "mydb-client"
+  ],
+  "scripts": ["index.js"],
+  "main": "index.js"
+}

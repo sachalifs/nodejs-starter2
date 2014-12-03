@@ -9,6 +9,8 @@ html
   body
     section.site-content
 
+    script(src='/socket.io/socket.io.js')
     script(src='/app.js')
     script.
+      mydb_socketid = '#{mydb_socket_id}'
       require('./lib/boot')

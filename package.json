@@ -52,6 +52,15 @@
     "merge-util": "0.1.0",
     "node-path": "0.0.3",
     "crypto": "0.0.3",
-    "debug": "2.0.0"
+    "debug": "2.0.0",
+
+    "socket.io": "1.2.1",
+    "redis": "0.12.1",
+    "mongo-minify": "0.1.1",
+    "clone-component": "0.2.2",
+    "monk": "0.9.1",
+    "superagent": "0.21.0",
+    "uid2": "0.0.3",
+    "socket.io-client": "1.2.1"
   }
 }
